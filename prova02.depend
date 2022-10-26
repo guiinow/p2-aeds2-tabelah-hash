@@ -1,0 +1,77 @@
+# depslib dependency file v1.0
+1665755970 source:c:\users\melissa\desktop\guilherme\prova02\filefuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1665755987 onario.h"
+
+1665756000 c:\users\melissa\desktop\guilherme\prova02\filefuncionario.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1666463436 
+
+1665755987 source:c:\users\melissa\desktop\guilherme\prova02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1665755970 source:c:\users\melissa\desktop\temp\guilherme\prova02\filefuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1665756000 c:\users\melissa\desktop\temp\guilherme\prova02\filefuncionario.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1665755987 source:c:\users\melissa\desktop\temp\guilherme\prova02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1666463436 source:c:\users\melissa\documents\arquivo - ufop\perÍodos\temp\guilherme\prova02\filefuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1666463436 c:\users\melissa\documents\arquivo - ufop\perÍodos\temp\guilherme\prova02\filefuncionario.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1665755987 source:c:\users\melissa\documents\arquivo - ufop\perÍodos\temp\guilherme\prova02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1666463474 source:/home/guiinow/Downloads/p3-hash-guilherme-ferreira/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
+1666463438 /home/guiinow/Downloads/p3-hash-guilherme-ferreira/fileFuncionario.h
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
+1666716285 source:/home/guiinow/Downloads/p3-hash-guilherme-ferreira/fileFuncionario.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"fileFuncionario.h"
+
